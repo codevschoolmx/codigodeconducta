@@ -1,6 +1,6 @@
 [CODEV School] - Código de Conducta
 1. Propósito
-Uno de los objetivos principales de colombia.dev es ser inclusiva para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles. Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y acogedor para todos, independientemente de su sexo, orientación sexual, capacidad, etnia, nivel socioeconómico, y religión (o falta de la misma).
+Uno de los objetivos principales de CODEV School es ser inclusiva para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles. Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y acogedor para todos, independientemente de su sexo, orientación sexual, capacidad, etnia, nivel socioeconómico, y religión (o falta de la misma).
 
 Este código de conducta resume nuestras expectativas para todos los que participan en nuestra comunidad, así como las consecuencias para el comportamiento inaceptable.
 
