@@ -19,6 +19,7 @@ Ejercita la consideración y el respeto en tus comunicaciones y acciones.
 Intenta colaborar en lugar de generar conflicto.
 Absténte de adoptar una conducta y un lenguaje degradantes, discriminatorios, abusivos o acosadores.
 Sé consciente de tu entorno y de tus compañeros participantes. Alerta a líderes de la comunidad si notas una situación peligrosa, alguien en apuros, o violaciones de este Código de Conducta, incluso si parecen intrascendentes.
+
 4. Comportamiento inaceptable
 Comportamientos inaceptables incluyen: intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante o acciones por cualquier participante en nuestra comunidad ya sea en internet, en todos los eventos relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de los negocios de la comunidad. Es posible que los lugares para eventos comunitarios sean de uso compartido con los miembros del público; por favor ser respetuoso con todos aquellos que los frecuentan.
 
@@ -34,7 +35,7 @@ Si un miembro de la comunidad participa en una conducta inaceptable, los organiz
 6. Si usted es testigo o es objeto de comportamiento inaceptable
 Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un organizador del meetup lo antes posible.
 
-Email: hola@codevschool.org
+Email: hello@codevschool.org
 
 Adicionalmente, los organizadores comunitarios están disponibles para ayudar a miembros de la comunidad a contactar a la policía local o interceder para que víctimas de comportamiento inaceptable se sientan seguros, En el contexto de los eventos en persona, los organizadores también pueden proporcionar escoltas si un miembro de la comunidad lo siente necesario.
 
@@ -45,10 +46,14 @@ Palabras que violen las normas de Código de Conducta, incluyendo comentarios od
 Comentarios que los organizadores encuentran inapropiados tampoco están permitidos, así aparezcan en el código de conducta o no.
 Los organizadores primero deberán responder a dichos comentarios con una advertencia.
 Si la advertencia es ignorada, el usuario/asistente será expulsado del canal para que evalúe su comportamiento, o deberá retirarse del lugar por 30 minutos en caso de eventos presenciales.
+
 Si el usuario/asistente regresa y continúa causando problemas, será expulsado del grupo/evento/lugar/Slack de forma indefinida.
 Los organizadores pueden retractar la expulsión a su discreción si esta se trata de una primera infracción y se ha ofrecido una disculpa sincera a quien ofendieron.
+
 Si un organizador expulsa a alguien y usted cree que fue una expulsión sin causa, contacte a ese organizador, o a un organizador diferente en privado. Quejas sobre expulsiones en medios abiertos, sociales, u otros canales no son permitidas y conllevaran a más expulsiones.
+
 Los organizadores se rigen por un nivel más alto que otros miembros de la comunidad. Si un organizador crea una situación inadecuada, este será juzgado con un estándar más alto.
+
 En la comunidad colombia.dev nos esforzamos por ir un paso más allá y cuidar el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate también de ser la mejor persona posible. En particular, evite tocar temas ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a menudo conduce a peleas innecesarias, sentimientos heridos, y a daños en la confianza; peor aún, puede conducir a que personas se alejen de la comunidad en su totalidad.
 
 De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de Codev School estén cómodos.
@@ -61,7 +66,7 @@ Adaptado de la Política de Moderación de Rust
 Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o de otro modo; patrocinadores; y otros invitados) se atengan a este Código de Conducta en todos los espacios virtuales y presenciales, así como en todas las comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
 
 9. Contacto
-hola@codevschool.org
+hello@codevschool.org
 @CodevSchool
 10. Licencia y atribución
 Este Código de Conducta se distribuye bajo una licencia Creative Commons – ShareAlike (BY-SA)
